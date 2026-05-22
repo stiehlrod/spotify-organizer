@@ -1,0 +1,8 @@
+venv/
+.cache
+*.db
+.env
+config.yaml
+bpm_cache.json
+__pycache__/
+*.pyc
